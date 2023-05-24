@@ -9,11 +9,9 @@ Migrate channel data from MongoDB to a MySQL database
 Search and retrieve data from the SQL database
 Display query results as tables in the Streamlit application
 Installation
-Clone the repository:
+Clone the repository
 
-git clone https://github.com/your-username/youtube-channel-analyzer.git
 Install the required dependencies:
-
 pip install -r requirements.txt
 Set up MongoDB:
 
