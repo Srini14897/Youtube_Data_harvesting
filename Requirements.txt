@@ -1,0 +1,8 @@
+Requirements
+Python
+Pandas
+Streamlit
+Plotly
+Numpy
+Pymysql
+Notebook
